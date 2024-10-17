@@ -39,9 +39,7 @@ To get started with this repository, follow these steps:
 
 **For Windows:**
 
-    ```shell
     \path\to\FastAPI\Scripts\activate
-    ```
 
 **4. Install the required dependencies:**
 
