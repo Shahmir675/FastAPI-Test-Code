@@ -25,6 +25,7 @@ To get started with this repository, follow these steps:
 
 
 **2. Navigate to the project directory:**
+
     ```bash
     cd FastAPI-Test-Code
     ```
