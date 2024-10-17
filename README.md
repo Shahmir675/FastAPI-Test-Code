@@ -31,6 +31,7 @@ To get started with this repository, follow these steps:
     ```
 
 **3. Create a virtual environment and activate it:**
+
     ```bash
     python -m venv /path/to/FastAPI
     ```
@@ -47,11 +48,13 @@ To get started with this repository, follow these steps:
     ```
 
 **4. Install the required dependencies:**
+
     ```bash
     python -m pip install -r requirements.txt
     ```
 
 **5. Run desired script:**
+
     ```bash
     fastapi dev <file-name>.py
     ```
