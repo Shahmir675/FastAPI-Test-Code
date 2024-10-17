@@ -33,13 +33,13 @@ To get started with this repository, follow these steps:
 
     python -m venv /path/to/FastAPI
 
-**For macOS/Linux:**
+- **For macOS/Linux:**
 
-    source /path/to/FastAPI/bin/activate
+        source /path/to/FastAPI/bin/activate
 
-**For Windows:**
+- **For Windows:**
 
-    \path\to\FastAPI\Scripts\activate
+        \path\to\FastAPI\Scripts\activate
 
 **4. Install the required dependencies:**
 
