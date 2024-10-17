@@ -18,36 +18,39 @@ In this repository, you will find practice and test code that demonstrates vario
 
 To get started with this repository, follow these steps:
 
-1. Clone the repository:
+**1. Clone the repository:**
    ```bash
    git clone https://github.com/Shahmir675/FastAPI-Test-Code.git
    ```
 
 
-2. Navigate to the project directory:
+**2. Navigate to the project directory:**
     ```bash
     cd FastAPI-Test-Code
     ```
 
-3. Create a virtual environment and activate it:
+**3. Create a virtual environment and activate it:**
     ```bash
     python -m venv /path/to/FastAPI
     ```
-    ### For macOS/Linux:
+    **For macOS/Linux:**
 
     ```bash
     source /path/to/FastAPI/bin/activate
     ```
 
-    ### For Windows:
-    \path\to\FastAPI\Scripts\activate
+    **For Windows:**
 
-3. Install the required dependencies:
+    ```bash
+    \path\to\FastAPI\Scripts\activate
+    ```
+
+**4. Install the required dependencies:**
     ```bash
     python -m pip install -r requirements.txt
     ```
 
-4. Run desired script:
+**5. Run desired script:**
     ```bash
     fastapi dev <file-name>.py
     ```
