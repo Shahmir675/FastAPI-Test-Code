@@ -19,8 +19,8 @@ In this repository, you will find practice and test code that demonstrates vario
 To get started with this repository, follow these steps:
 
 **1. Clone the repository:**
-   
-   git clone https://github.com/Shahmir675/FastAPI-Test-Code.git
+
+    git clone https://github.com/Shahmir675/FastAPI-Test-Code.git
    
 
 
